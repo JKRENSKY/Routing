@@ -1,5 +1,3 @@
-import { promise } from "protractor";
-
 export class AuthService {
     
     isAuthenticated(){
